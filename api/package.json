@@ -5,6 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
+    "admin": "strapi develop --watch-admin",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
@@ -28,7 +29,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "092c44de-692e-4d21-acfa-ed40a3fe01a9"
+    "uuid": "FOODADVISOR-LOCAL-892f0d02-b7e4-4360-b23d-41ba6ece29ec"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
